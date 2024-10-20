@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.Storage" parent="Theme.Material3.Light.NoActionBar">
+
+        <!-- Primary Brand Color -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+
+        <!-- Secondary Brand Color -->
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorSecondaryVariant">@color/colorSecondaryVariant</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+
+        <!-- Background and Surface Colors -->
+        <item name="colorBackground">@color/colorBackground</item>
+        <item name="colorOnBackground">@color/colorOnBackground</item>
+        <item name="colorSurface">@color/colorSurface</item>
+        <item name="colorOnSurface">@color/colorOnSurface</item>
+
+        <!-- Error Colors -->
+        <item name="colorError">@color/colorError</item>
+        <item name="colorOnError">@color/colorOnError</item>
+
+        <!-- Add Window Background -->
+        <item name="android:windowBackground">?attr/colorBackground</item>
+
+        <!-- Status Bar Color -->
+        <item name="android:statusBarColor">@color/colorPrimaryVariant</item>
+
+        <!-- Customize other theme attributes as needed -->
+    </style>
+</resources>

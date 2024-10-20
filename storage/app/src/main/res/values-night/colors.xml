@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#BB86FC</color>
+    <color name="colorPrimaryVariant">#3700B3</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <!-- Secondary Colors -->
+    <color name="colorSecondary">#03DAC5</color>
+    <color name="colorSecondaryVariant">#aae6e0</color>
+    <color name="colorOnSecondary">#000000</color>
+
+    <!-- Background and Surface Colors -->
+    <color name="colorBackground">#000000</color>
+    <color name="colorOnBackground">#FFFFFF</color>
+    <color name="colorSurface">#000000</color>
+    <color name="colorOnSurface">#FFFFFF</color>
+
+    <!-- Error Colors -->
+    <color name="colorError">#CF6679</color>
+    <color name="colorOnError">#000000</color>
+
+    <!-- Other Colors -->
+    <color name="white">#000000</color> <!-- In dark mode, white might represent black -->
+    <color name="black">#FFFFFF</color> <!-- And vice versa -->
+    <!-- Add more colors as needed -->
+</resources>
